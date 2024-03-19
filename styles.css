@@ -1,0 +1,18 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: tan;
+}
+
+.site-title{
+    font-family:'Times New Roman';
+    text-align: center;
+    font-size: 34px;
+    font-style: italic;
+    text-decoration: underline;
+    color: black;
+}
+
+.list-of-recipes, a{
+    color: black;
+    text-align: center;
+}

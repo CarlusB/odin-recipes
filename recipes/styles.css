@@ -1,0 +1,25 @@
+body{
+    background-color: tan;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1{
+    font-family: 'Times New Roman';
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+img{
+    display: block;
+    margin: auto;
+}
+
+h4{
+    text-decoration: underline;
+}
+
+a{
+    color: black;
+}
+
