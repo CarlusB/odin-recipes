@@ -16,7 +16,7 @@ img{
 }
 
 h4{
-    text-decoration: underline;
+    border-top: 2px solid black;
 }
 
 a{

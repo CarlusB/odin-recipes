@@ -12,7 +12,16 @@ body{
     color: black;
 }
 
+.list-of-recipes, li{
+    margin: 0px 0px 16px;
+}
+
 .list-of-recipes, a{
     color: black;
     text-align: center;
+}
+
+.list-of-recipes, img{
+    display: block;
+    margin: 0px auto;
 }
